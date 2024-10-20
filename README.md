@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# EndlessRegistrationForm
-Endless Registration Form is a playful web project that showcases the concept of a registration form with an infinite number of fields. Perfect for those who want to test users' patience or simply have a laugh at overly complicated sign-up processes.
-=======
 # Endless Registration Form 🚀
 
 ![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)
@@ -59,4 +55,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 **Note:** This project is created for entertainment purposes and is not intended for real user registration scenarios.
->>>>>>> 46a5a37 (Initial commit)
