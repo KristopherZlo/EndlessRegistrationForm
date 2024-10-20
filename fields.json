@@ -1,0 +1,2054 @@
+[
+    {
+        "type": "text",
+        "question": "Your beloved animal?"
+    },
+    {
+        "type": "number",
+        "question": "How many hours a week do you work?"
+    },
+    {
+        "type": "select",
+        "question": "Choose your favorite color:",
+        "options": [
+            "Red",
+            "Blue",
+            "Green",
+            "Yellow"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "What is your hobby?"
+    },
+    {
+        "type": "number",
+        "question": "How many countries have you visited?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite season of the year:",
+        "options": [
+            "Winter",
+            "Spring",
+            "Summer",
+            "Autumn"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "What kind of music do you prefer?"
+    },
+    {
+        "type": "number",
+        "question": "How many languages ​​do you know?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite sport:",
+        "options": [
+            "Football",
+            "Basketball",
+            "Swimming",
+            "Tennis"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "What is your favorite kitchen?"
+    },
+    {
+        "type": "number",
+        "question": "How many books have you read over the past year?"
+    },
+    {
+        "type": "select",
+        "question": "Select the preferred recreation type:",
+        "options": [
+            "Active",
+            "Beach",
+            "Excursion",
+            "Mountain"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "Your favorite movie?"
+    },
+    {
+        "type": "number",
+        "question": "How many hours a day do you sleep?"
+    },
+    {
+        "type": "select",
+        "question": "Your level of education:",
+        "options": [
+            "Average",
+            "Higher",
+            "Candidate of Sciences",
+            "Doctor of Sciences"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "What programming languages ​​do you know?"
+    },
+    {
+        "type": "number",
+        "question": "How many kilometers do you go per day?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite book genre:",
+        "options": [
+            "Fiction",
+            "Novel",
+            "Detective",
+            "Non-fiction"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "What is your favorite holiday?"
+    },
+    {
+        "type": "number",
+        "question": "How many cups of coffee do you drink per day?"
+    },
+    {
+        "type": "text",
+        "question": "What country would you like to visit?"
+    },
+    {
+        "type": "number",
+        "question": "How many hours a week do you go in for sports?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite type of art:",
+        "options": [
+            "Painting",
+            "Music",
+            "Theater",
+            "Cinema"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "What is your favorite car?"
+    },
+    {
+        "type": "number",
+        "question": "How many hours a day do you spend at a computer?"
+    },
+    {
+        "type": "select",
+        "question": "What is your zodiac sign?",
+        "options": [
+            "Aries",
+            "Taurus",
+            "Gemini",
+            "Cancer",
+            "Lion",
+            "Virgo",
+            "Libra",
+            "Scorpio",
+            "Sagittarius",
+            "Capricorn",
+            "Aquarius",
+            "Fish"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "What is your dream?"
+    },
+    {
+        "type": "number",
+        "question": "How many languages ​​would you like to learn?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite films genre:",
+        "options": [
+            "Action",
+            "Comedy",
+            "Drama",
+            "Horrors",
+            "Fiction"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "What is your favorite drink?"
+    },
+    {
+        "type": "number",
+        "question": "How many times a year do you travel?"
+    },
+    {
+        "type": "select",
+        "question": "Choose the preferred musical instrument:",
+        "options": [
+            "Guitar",
+            "Piano",
+            "Violin",
+            "Drums"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "What is your favorite actor or actress?"
+    },
+    {
+        "type": "number",
+        "question": "How many hours a week do you devote a hobby?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite type of kitchen:",
+        "options": [
+            "Italian",
+            "Japanese",
+            "Mexican",
+            "French"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "What is your favorite flower?"
+    },
+    {
+        "type": "number",
+        "question": "How many pets do you have?"
+    },
+    {
+        "type": "select",
+        "question": "What transport do you prefer:",
+        "options": [
+            "Car",
+            "Bicycle",
+            "Public transport",
+            "On foot"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "What is your favorite season?"
+    },
+    {
+        "type": "number",
+        "question": "How many hours a day do you listen to music?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite dessert:",
+        "options": [
+            "Cake",
+            "Ice cream",
+            "Cake",
+            "Fruits"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "What book made the biggest impression on you?"
+    },
+    {
+        "type": "number",
+        "question": "How many years have you live in your current city?"
+    },
+    {
+        "type": "select",
+        "question": "How do you prefer to spend the weekend:",
+        "options": [
+            "At home",
+            "In nature",
+            "With friends",
+            "Traveling"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "What is your favorite series?"
+    },
+    {
+        "type": "number",
+        "question": "How many hours a day do you read the news?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite type of seafood:",
+        "options": [
+            "Fish",
+            "Shrimp",
+            "Squid",
+            "Mussels"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "What is your most memorable moment in life?"
+    },
+    {
+        "type": "number",
+        "question": "How many kilometers do you run in a week?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite drink in the morning:",
+        "options": [
+            "Coffee",
+            "Tea",
+            "Juice",
+            "Water"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "What is your favorite holiday?"
+    },
+    {
+        "type": "number",
+        "question": "How many films do you watch a month?"
+    },
+    {
+        "type": "select",
+        "question": "Your attitude to extreme sports:",
+        "options": [
+            "I love",
+            "Interested in",
+            "Indifferent",
+            "I'm afraid"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "What is your profession?"
+    },
+    {
+        "type": "number",
+        "question": "How many hours a day do you spend in the fresh air?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite clothing style:",
+        "options": [
+            "Classic",
+            "Sports",
+            "Casual",
+            "Avant -garde"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "What is your favorite city?"
+    },
+    {
+        "type": "number",
+        "question": "How many hours a week do you spend reading?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite game genre:",
+        "options": [
+            "Strategies",
+            "Shooters",
+            "Role",
+            "Puzzles"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "What is your favorite programming language?"
+    },
+    {
+        "type": "number",
+        "question": "How many hours a day do you spend on social networks?"
+    },
+    {
+        "type": "text",
+        "question": "What goal do you want to achieve in the near future?"
+    },
+    {
+        "type": "number",
+        "question": "How many countries do you plan to visit next year?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite type of tea:",
+        "options": [
+            "Black",
+            "Green",
+            "White",
+            "Herbal"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "What is your favorite place in the city?"
+    },
+    {
+        "type": "number",
+        "question": "How many hours a week do you engage in self -education?"
+    },
+    {
+        "type": "select",
+        "question": "Your attitude to books:",
+        "options": [
+            "I like to read",
+            "Indifferent",
+            "I do not read"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "What is your favorite movie of all times?"
+    },
+    {
+        "type": "number",
+        "question": "How many hours a day do you work?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite music genre:",
+        "options": [
+            "Rock",
+            "Pop",
+            "Classic",
+            "Electronics"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "What is your favorite book author?"
+    },
+    {
+        "type": "number",
+        "question": "How many times a week do you go to the cinema?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite fruit:",
+        "options": [
+            "Apple",
+            "Banana",
+            "Orange",
+            "Pear"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "What is your favorite time of day?"
+    },
+    {
+        "type": "number",
+        "question": "How many times a year do you go to concerts?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite season:",
+        "options": [
+            "Spring",
+            "Summer",
+            "Autumn",
+            "Winter"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "What is your favorite childhood film?"
+    },
+    {
+        "type": "number",
+        "question": "How many hours a day do you spend in transport?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite weather type:",
+        "options": [
+            "Sunny",
+            "Rain",
+            "Snow",
+            "Cloudy"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "What book do you read now?"
+    },
+    {
+        "type": "number",
+        "question": "How many times a week do you go in for sports?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite eye color:",
+        "options": [
+            "Blue",
+            "Green",
+            "Kariy",
+            "Gray"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "What is your favorite dishes recipe?"
+    },
+    {
+        "type": "number",
+        "question": "How many times a month do you go to nature?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite type of rest:",
+        "options": [
+            "Active",
+            "Passive",
+            "Travel",
+            "Cultural rest"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "What program did you watch in childhood?"
+    },
+    {
+        "type": "number",
+        "question": "How many friends do you have?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite type of shoe:",
+        "options": [
+            "Sneakers",
+            "Shoes",
+            "Shoes",
+            "Sandals"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "What is your favorite taste of ice cream?"
+    },
+    {
+        "type": "number",
+        "question": "How many subscriptions do you have on YouTube?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite ice cream:",
+        "options": [
+            "Chocolate",
+            "Vanilla",
+            "Strawberry",
+            "Pistachio"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "What song do you listen to most often?"
+    },
+    {
+        "type": "number",
+        "question": "How many subscribers do you have on social networks?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite video game genre:",
+        "options": [
+            "RPG",
+            "Shooters",
+            "Strategies",
+            "Sports"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "What is your favorite city for relaxation?"
+    },
+    {
+        "type": "number",
+        "question": "How many subscriptions for streaming services do you have?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite computer type:",
+        "options": [
+            "Laptop",
+            "Desktop PC",
+            "Tablet",
+            "Smartphone"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "What is your favorite hero from books?"
+    },
+    {
+        "type": "number",
+        "question": "How many hours a week do you spend on video games?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite podcast genre:",
+        "options": [
+            "Technology",
+            "News",
+            "Entertainment",
+            "Health"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "What is your favorite character from films?"
+    },
+    {
+        "type": "number",
+        "question": "How many subscriptions for mailings do you have?"
+    },
+    {
+        "type": "text",
+        "question": "What is your favorite place for walking?"
+    },
+    {
+        "type": "number",
+        "question": "How many times a week do you engage in meditation?"
+    },
+    {
+        "type": "text",
+        "question": "What is your favorite artist?"
+    },
+    {
+        "type": "number",
+        "question": "How many subscriptions for music services do you have?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite type of communication:",
+        "options": [
+            "Personal",
+            "Telephone",
+            "Online",
+            "Correspondence"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "What is your favorite horror movie?"
+    },
+    {
+        "type": "number",
+        "question": "How many times a week do you visit a cafe?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite movie genre:",
+        "options": [
+            "Comedy",
+            "Drama",
+            "Action",
+            "Horrors"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "What is your favorite dish?"
+    },
+    {
+        "type": "number",
+        "question": "How many subscriptions to sports clubs do you have?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite mode of transport:",
+        "options": [
+            "Car",
+            "Train",
+            "Aircraft",
+            "Bicycle"
+        ]
+    },
+    {
+        "type": "number",
+        "question": "How many times a week do you visit the gym?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite type of drinks:",
+        "options": [
+            "Juices",
+            "Carbonated drinks",
+            "Cocktails",
+            "Dairy drinks"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "What is your favorite weekend lesson?"
+    },
+    {
+        "type": "number",
+        "question": "How many subscriptions for magazines do you have?"
+    },
+    {
+        "type": "text",
+        "question": "What is your favorite dessert?"
+    },
+    {
+        "type": "number",
+        "question": "How many subscriptions do you have for online courses?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite way of movement:",
+        "options": [
+            "On foot",
+            "On a bicycle",
+            "By car",
+            "By public transport"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "What is your favorite direction in art?"
+    },
+    {
+        "type": "number",
+        "question": "How many newspapers do you have?"
+    },
+    {
+        "type": "text",
+        "question": "What is your favorite direction in music?"
+    },
+    {
+        "type": "number",
+        "question": "How many subscriptions to the streaming platforms do you have?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite literature genre:",
+        "options": [
+            "Fiction",
+            "Novel",
+            "Detective",
+            "Poetry"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "What is your favorite time for work?"
+    },
+    {
+        "type": "number",
+        "question": "How many subscriptions do you have for applications?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite type of films:",
+        "options": [
+            "Action",
+            "Comedy",
+            "Drama",
+            "Fiction"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "What is your favorite time for relaxation?"
+    },
+    {
+        "type": "text",
+        "question": "If you could be any fruit, what would it be?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you jumped over the rope this month?"
+    },
+    {
+        "type": "select",
+        "question": "Choose your favorite type of cloud:",
+        "options": [
+            "Heaps",
+            "Layered",
+            "Cirrus",
+            "Cirrhus"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "What sound does your ideal alarm make a sound?"
+    },
+    {
+        "type": "number",
+        "question": "How many cups of tea did you drink today?"
+    },
+    {
+        "type": "text",
+        "question": "If you could talk with animals, who would you talk to first?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you blinked in the last five minutes?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite fragrance:",
+        "options": [
+            "Vanilla",
+            "Lavender",
+            "Citrus",
+            "Wood notes"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "What superpowibility do you have in everyday life?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you smiled today?"
+    },
+    {
+        "type": "select",
+        "question": "Choose your favorite type of pie:",
+        "options": [
+            "Apple",
+            "Cherry",
+            "Chocolate",
+            "Cheese"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "If you could change the color of the sky, what would it be?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you checked your phone over the last hour?"
+    },
+    {
+        "type": "text",
+        "question": "What book would you recommend to your younger I?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you heard the word 'zebra' for the last day?"
+    },
+    {
+        "type": "text",
+        "question": "If you could live in any era, which one would you choose?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you eaten something with carrots in a week?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite type of dessert:",
+        "options": [
+            "Ice cream",
+            "Cakes",
+            "Fruits",
+            "Pudding"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "If you could create a new holiday, what would it be called?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you looked out the window in the last hour?"
+    },
+    {
+        "type": "text",
+        "question": "What is the invention, in your opinion, the strangest thing?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you moved your fingers in the last day?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite drink:",
+        "options": [
+            "Coffee",
+            "Tea",
+            "Juice",
+            "Soda"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "If you could be invisible for one day, what would you do?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you laughed in the last hour?"
+    },
+    {
+        "type": "text",
+        "question": "What is the most unusual subject at home?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you blinked over the past 10 minutes?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite type of weather:",
+        "options": [
+            "Sunny",
+            "Rainy",
+            "Snowy",
+            "Cloudy"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "If you could change one law of nature, what would it be?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you touched your face for today?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite type of pets:",
+        "options": [
+            "Dog",
+            "Cat",
+            "Bird",
+            "Fish"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "What would be your perfect day on a desert island?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you sighed in the last hour?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite taste of ice cream:",
+        "options": [
+            "Chocolate",
+            "Vanilla",
+            "Strawberries",
+            "Mint"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "If you could speak any language instantly, what would you choose?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you turned your head in the last five minutes?"
+    },
+    {
+        "type": "text",
+        "question": "What superpower would you choose: flight or invisibility?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you scrolled the mouse wheel for today?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite sport for viewing:",
+        "options": [
+            "Football",
+            "Basketball",
+            "Tennis",
+            "Hockey"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "What food could you eat every day and not get tired?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you checked e -mail today?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite holiday:",
+        "options": [
+            "New Year",
+            "Christmas",
+            "Birthday",
+            "Halloween"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "If you could live in any city in the world, what would you choose?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you said 'thank you' today?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite drink for morning awakening:",
+        "options": [
+            "Coffee",
+            "Tea",
+            "Energy drink",
+            "Water"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "What skill would you like to master in one day?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you looked at the clock over the last hour?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite type of pie:",
+        "options": [
+            "Apple",
+            "Chocolate",
+            "Bakers",
+            "Carrot"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "If you could change one event in history, what would you change?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you laughed at the joke today?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite picnic type:",
+        "options": [
+            "On the beach",
+            "In the park",
+            "In the forest",
+            "On the lake"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "What is your favorite way to relax after a working day?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you eaten something sweet in a week?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite type of soup:",
+        "options": [
+            "Borsch",
+            "Solyanka",
+            "Pea",
+            "Chicken"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "If you could have any pet, what would you choose?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you raised your head in the last 30 minutes?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite type of dessert:",
+        "options": [
+            "Cake",
+            "Cookies",
+            "Ice cream",
+            "Cake"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "What thing would you take with you to an uninhabited island?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you made a deep breath for today?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite type of salad:",
+        "options": [
+            "Caesar",
+            "Greek",
+            "Vegetable",
+            "Fruit"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "If you could visit any planet, which one would you choose?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you looked in the mirror today?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite type of breakfast:",
+        "options": [
+            "Oatmeal",
+            "Scrambled eggs",
+            "Pancakes",
+            "Toasts"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "What country would you like to visit, but have never been?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you smiled by accident in the last day?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite type of cheese:",
+        "options": [
+            "Chedder",
+            "Mozarella",
+            "Bree",
+            "Dutch"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "If you could have any gadget, what would it be?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you said your name today?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite type of coffee:",
+        "options": [
+            "Espresso",
+            "Latte",
+            "Cappuccino",
+            "Americano"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "What music would you choose for time travel?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you closed your eyes over the last hour?"
+    },
+    {
+        "type": "text",
+        "question": "If you could meet with any historical figure, who would it be?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you turned the page in the book today?"
+    },
+    {
+        "type": "text",
+        "question": "What profession would you choose if there were no restrictions?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you shaked your foot in the last hour?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite type of chocolate:",
+        "options": [
+            "Milk",
+            "Dark",
+            "White",
+            "With nuts"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "If you could change one rule in society, what would it be?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you said the word 'yes' today?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite type of cinema:",
+        "options": [
+            "2D",
+            "3D",
+            "IMAX",
+            "Wild cinemas"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "What thing do you consider the most important in life?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you blinked over the past 5 minutes?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite drink on a hot day:",
+        "options": [
+            "Lemonade",
+            "Cold tea",
+            "Freshly squeezed juice",
+            "Water with lemon"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "If you could live under water, what would you do?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you lost concentration today?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite type of bread:",
+        "options": [
+            "Borodinsky",
+            "Rye",
+            "Baget",
+            "Whole grain"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "What skill do you consider the most useful?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you heard birds today?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite type of pasta:",
+        "options": [
+            "Spaghetti",
+            "Penne",
+            "Fettuchini",
+            "Lasania"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "If you could become a master in any business, what would you choose?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you looked at the sky today?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite type of fruit:",
+        "options": [
+            "Apples",
+            "Bananas",
+            "Grapes",
+            "Oranges"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "What skill would you like to convey to your children?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you said 'please' today?"
+    },
+    {
+        "type": "text",
+        "question": "If you could change your profession for one day, what would you choose?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you paused in the last hour?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite type of fruit juice:",
+        "options": [
+            "Orange",
+            "Apple",
+            "Pomegranate",
+            "Carrot"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "What technology do you consider the most promising?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you smiled at your reflection in the mirror today?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite type of ice cream:",
+        "options": [
+            "With nuts",
+            "With chocolate crumb",
+            "With caramel",
+            "Without additives"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "If you could live in any fictional world, what would you choose?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you paused for coffee today?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite type of ice cream:",
+        "options": [
+            "Chocolate",
+            "Vanilla",
+            "Strawberry",
+            "Mint"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "What subject would you take on a uninhabited island except for food and water?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you sighed deeply in the last hour?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite type of vegetables:",
+        "options": [
+            "Carrots",
+            "Broccoli",
+            "Tomatoes",
+            "Cucumbers"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "If you could invent something new, what would it be?"
+    },
+    {
+        "type": "text",
+        "question": "What song would you choose for your personal anthem?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you taken a cup for today?"
+    },
+    {
+        "type": "text",
+        "question": "If you could spend a day with any person, alive or dead, who would it be?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you looked at the computer screen today?"
+    },
+    {
+        "type": "text",
+        "question": "What skill do you consider the most underestimated?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you taken a step today?"
+    },
+    {
+        "type": "text",
+        "question": "If you could change one thing in the world, what would it be?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you said 'Hello' today?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite type of drink:",
+        "options": [
+            "Juice",
+            "Lemonade",
+            "Cocktail",
+            "Dairy cocktail"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "What book would you write if you had such an opportunity?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you blinked over the last hour?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite type of pizza:",
+        "options": [
+            "Margarita",
+            "Pepperoni",
+            "Hawaiian",
+            "Vegetarian"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "If you could learn how to play on any musical instrument, what would it be?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you looked at your phone in the last hour?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite type of warm drink:",
+        "options": [
+            "Coffee",
+            "Tea",
+            "Hot chocolate",
+            "Cappuccino"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "What subject would you choose for your home library?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you sighed deeply over the last day?"
+    },
+    {
+        "type": "text",
+        "question": "If you could live in any country, which one would you choose?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you used the word 'interesting' today?"
+    },
+    {
+        "type": "text",
+        "question": "What role would you play in the film about your life?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you blinked in the last 30 minutes?"
+    },
+    {
+        "type": "text",
+        "question": "If you could master any language instantly, what would it be?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you taken a sip of water today?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite type of cocktail:",
+        "options": [
+            "Mohito",
+            "Margarita",
+            "Pina Kolada",
+            "Daikiri"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "What skill would you like to develop in the coming year?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you said 'sorry' today?"
+    },
+    {
+        "type": "text",
+        "question": "If you could create your own world, what would it include?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you looked at your watch today?"
+    },
+    {
+        "type": "text",
+        "question": "What profession do you consider the most interesting?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you paused today?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite type of pizza:",
+        "options": [
+            "Pepperoni",
+            "Vegetarian",
+            "Cheese",
+            "Mushroom"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "If you could become an expert in any area, what would it be?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you smiled at someone today?"
+    },
+    {
+        "type": "text",
+        "question": "What book would you choose for reading on a desert island?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you checked the weather today?"
+    },
+    {
+        "type": "text",
+        "question": "If you could change one rule in your life, what would you change?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you taken a breath in the last hour?"
+    },
+    {
+        "type": "text",
+        "question": "What sound is you associated with Monday?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you opened the refrigerator in the last hour?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite type of cloud:",
+        "options": [
+            "Kuchevo-rash",
+            "Heaps",
+            "Layered",
+            "Circuses"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "If you could have any animal as a pet, what would you choose?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you pressed the “skip 'button on YouTube today?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite type of kitchen:",
+        "options": [
+            "Italian",
+            "Chinese",
+            "Mexican",
+            "Japanese"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "What skill would you like to master without effort?"
+    },
+    {
+        "type": "number",
+        "question": "How many cups of coffee have you drank this week?"
+    },
+    {
+        "type": "text",
+        "question": "If you could change your appearance for one day, what would you change?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you opened social networks today?"
+    },
+    {
+        "type": "text",
+        "question": "What is your most strange hobby?"
+    },
+    {
+        "type": "text",
+        "question": "If you could live in any fantastic world, what would you choose?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you raised your hands for today?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite sport for participation:",
+        "options": [
+            "Running",
+            "Yoga",
+            "Swimming",
+            "Cycling"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "What kind of superpower would you like to have?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you looked at your reflection today?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite movie:",
+        "options": [
+            "Action",
+            "Comedy",
+            "Thriller",
+            "Documentary"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "What subject would you like to study again?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite type of drink:",
+        "options": [
+            "Cocoa",
+            "Latte tea",
+            "Espresso",
+            "Mokko"
+        ]
+    },
+    {
+        "type": "number",
+        "question": "How many times have you smiled today?"
+    },
+    {
+        "type": "text",
+        "question": "What book would you like to read again?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you made a deep breath in the last hour?"
+    },
+    {
+        "type": "text",
+        "question": "If you could be any hero from the film, who would it be?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you said 'no' today?"
+    },
+    {
+        "type": "text",
+        "question": "What skill do you consider the most important for life?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you looked at your smartphone today?"
+    },
+    {
+        "type": "text",
+        "question": "If you could change your voice, what would it be?"
+    },
+    {
+        "type": "text",
+        "question": "What country would you like to visit next year?"
+    },
+    {
+        "type": "text",
+        "question": "If you could meet any person, alive or dead, who would it be?"
+    },
+    {
+        "type": "text",
+        "question": "What music do you like to listen to when you work?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you switched channels today?"
+    },
+    {
+        "type": "text",
+        "question": "If you could master any language, what would you choose?"
+    },
+    {
+        "type": "text",
+        "question": "What thing would you like to change in your city?"
+    },
+    {
+        "type": "text",
+        "question": "If you could become a master in any craft, what would it be?"
+    },
+    {
+        "type": "text",
+        "question": "What book would you recommend to friends?"
+    },
+    {
+        "type": "text",
+        "question": "If you could change your profession, what would you switch to?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you checked e -mail today?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite type of cheese:",
+        "options": [
+            "Bree",
+            "Gorgonzole",
+            "Mascarpone",
+            "Rocher"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "What movie can you watch again and again?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you paused at work today?"
+    },
+    {
+        "type": "text",
+        "question": "If you could master any musical art, what would it be?"
+    },
+    {
+        "type": "text",
+        "question": "What skill do you consider the most useful in everyday life?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you opened the door today?"
+    },
+    {
+        "type": "text",
+        "question": "If you could change one rule in your home, what would it be?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you checked the time today?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite type of coffee:",
+        "options": [
+            "Frappa",
+            "Ristretto",
+            "Latte Machiato",
+            "Americano"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "What profession would you choose if there were no financial restrictions?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you paused for lunch today?"
+    },
+    {
+        "type": "text",
+        "question": "If you could spend a day with any celebrity, who would it be?"
+    },
+    {
+        "type": "text",
+        "question": "What song would you choose as a personal anthem?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite salad type:",
+        "options": [
+            "Caesar",
+            "Nisuaz",
+            "Kaprezu",
+            "Vinaigrette"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "If you could master any sport, what would it be?"
+    },
+    {
+        "type": "text",
+        "question": "What technology do you consider the most useful?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you smiled at your reflection today?"
+    },
+    {
+        "type": "text",
+        "question": "If you could change one event in your life, what would it be?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite type of breakfast:",
+        "options": [
+            "Sandwiches",
+            "Porridge",
+            "Smoothies",
+            "Scrambled eggs"
+        ]
+    },
+    {
+        "type": "number",
+        "question": "How many times have you taken a step back today?"
+    },
+    {
+        "type": "text",
+        "question": "If you could change one law of nature, what would you change?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you said 'good' today?"
+    },
+    {
+        "type": "text",
+        "question": "What profession do you consider the most creative?"
+    },
+    {
+        "type": "text",
+        "question": "If you could live anywhere on the ground, where would you choose?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you blinked over the past 15 minutes?"
+    },
+    {
+        "type": "text",
+        "question": "What book would you like to write?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite type of tea:",
+        "options": [
+            "Tea with lemon",
+            "Tea with honey",
+            "Mint tea",
+            "Ginger tea"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "If you could change your clothing style, what would you change?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you looked at your bag or wallet today?"
+    },
+    {
+        "type": "text",
+        "question": "What song would you choose for dance?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you looked out the window today?"
+    },
+    {
+        "type": "text",
+        "question": "If you could master any profession in one day, what would it be?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you taken inhale-out of today?"
+    },
+    {
+        "type": "text",
+        "question": "What technology would you like to see in the future?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you looked at the phone screen today?"
+    },
+    {
+        "type": "text",
+        "question": "What thing do you consider to be the most important in friendship?"
+    },
+    {
+        "type": "text",
+        "question": "What movie would you recommend to see everyone?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you taken a step forward today?"
+    },
+    {
+        "type": "text",
+        "question": "If you could master any scientific discipline, what would it be?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you looked at the TV screen today?"
+    },
+    {
+        "type": "text",
+        "question": "What book would you like to read for the first time?"
+    },
+    {
+        "type": "text",
+        "question": "If you could change your own occupation, what would you switch to?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you checked your e -mail today?"
+    },
+    {
+        "type": "text",
+        "question": "Which movie can you watch endlessly?"
+    },
+    {
+        "type": "text",
+        "question": "If you could master any kind of art, what would it be?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you looked at your smartphone in the last hour?"
+    },
+    {
+        "type": "text",
+        "question": "What profession do you consider the most significant?"
+    },
+    {
+        "type": "text",
+        "question": "If you could change your daily routine, what would you change?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you taken a breath today?"
+    },
+    {
+        "type": "text",
+        "question": "What book would you like to pass on to the next generation?"
+    },
+    {
+        "type": "text",
+        "question": "What movie would you make if you had the opportunity?"
+    },
+    {
+        "type": "text",
+        "question": "If you could master any type of dance, what would it be?"
+    },
+    {
+        "type": "text",
+        "question": "What technology do you consider the most innovative?"
+    },
+    {
+        "type": "text",
+        "question": "If you could change one thing in your education, what would you change?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you looked at your phone today?"
+    },
+    {
+        "type": "text",
+        "question": "What book would you like to read again and again?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you said 'good morning' today?"
+    },
+    {
+        "type": "text",
+        "question": "If you could change your lifestyle, what would you change?"
+    },
+    {
+        "type": "select",
+        "question": "Your favorite type of vegetables:",
+        "options": [
+            "Eggplant",
+            "Tsukini",
+            "Radishes",
+            "Parsley"
+        ]
+    },
+    {
+        "type": "text",
+        "question": "What book would you like to read on a desert island?"
+    },
+    {
+        "type": "text",
+        "question": "If you could change one rule in your office, what would it be?"
+    },
+    {
+        "type": "text",
+        "question": "What movie would you choose for a party with friends?"
+    },
+    {
+        "type": "text",
+        "question": "If you could master any type of craft, what would it be?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you looked at the phone screen in the last hour?"
+    },
+    {
+        "type": "text",
+        "question": "What profession would you choose if you could start again?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you looked at your clock today?"
+    },
+    {
+        "type": "text",
+        "question": "What technology do you consider the most useful for the future?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you smiled by accident today?"
+    },
+    {
+        "type": "text",
+        "question": "If you could change one rule in your family, what would you change?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you checked your phone today?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you said 'thank you' today?"
+    },
+    {
+        "type": "text",
+        "question": "If you could change your career, what would you switch to?"
+    },
+    {
+        "type": "number",
+        "question": "How many times have you checked social networks today?"
+    },
+    {
+        "type": "text",
+        "question": "What movie would you like to re -translate?"
+    },
+    {
+        "type": "text",
+        "question": "What book would you like to read again?"
+    },
+    {
+        "type": "text",
+        "question": "If you could change your profession, what would you switch to?"
+    }
+]

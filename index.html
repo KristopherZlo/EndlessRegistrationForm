@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Endless Registration Form</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- Registration form -->
+  <form id="registration-form" class="form">
+    <h2>Registration</h2>
+    <label>Email:
+      <input type="email" name="email" required>
+    </label>
+    <label>Login:
+      <input type="text" name="login" required>
+    </label>
+    <label>Password:
+      <input type="password" name="password" required>
+    </label>
+    <label>Repeat password:
+      <input type="password" name="confirm-password" required>
+    </label>
+    <button type="submit">Register</button>
+  </form>
+
+  <!-- Modal window -->
+  <div id="modal" class="modal">
+    <div class="modal-content">
+      <p>To complete your registration, please provide additional information about yourself.</p>
+      <button id="start-extra-form">Continue</button>
+    </div>
+  </div>
+
+  <!-- Container for infinite form -->
+  <form id="infinite-form" class="form hidden">
+    <h2>Additional information</h2>
+    <!-- Fields will be added here -->
+  </form>
+
+  <script src="script.js"></script>
+</body>
+</html>
